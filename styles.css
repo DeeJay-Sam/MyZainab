@@ -1,8 +1,8 @@
 body {
     display: flex;
-    justify-content: center;
+    justify-content: top;
     align-items: center;
-    height: 90vh;
+    height: 60vh;
     background-color: rgb(225, 122, 168);
 }
 
